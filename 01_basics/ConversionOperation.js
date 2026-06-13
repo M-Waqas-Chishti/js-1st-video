@@ -29,3 +29,35 @@ let somenumber = 33
 let stringNumber = String(somenumber)
 console.log(stringNumber);
 console.log( typeof stringNumber);
+
+// **************** Operations ***********
+let value = 3
+let negvalue = -value 
+//console.log(negvalue);
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2**2);
+ let str1 = "waqas"
+ let str2 = " chishti"
+ let str3 = str1 + str2
+ console.log(str3);
+ 
+ console.log("1" + 2);
+ console.log(1 + "2");
+ console.log("1" + "2");
+ console.log("1" + 2 + 2);
+ console.log(1 + 2 + "2");
+
+ console.log(+true);
+ console.log(+"")
+ 
+ let num1, num2, num3
+ num1 = num2 = num3 = 2+2  // this is not perfect method 
+ let gemeCounter = 100
+ gemeCounter++;
+ console.log(gemeCounter);
+ 
+
+ 
+ 
